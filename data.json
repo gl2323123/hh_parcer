@@ -1,0 +1,58 @@
+[
+    {
+        "link": "https://spb.hh.ru/vacancy/91676650?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "от 200 000 ₽",
+        "company": "UBIC",
+        "city": "Москва",
+        "name": "Python developer"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92391449?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "от 200 000 ₽",
+        "company": "NOMIA",
+        "city": "Москва",
+        "name": "Python developer"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/92696470?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "80 000 – 200 000 ₽",
+        "company": "ООО ВЕБ Инфраструктура",
+        "city": "Москва",
+        "name": "Software Developer Python"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91665538?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "80 000 – 200 000 ₽",
+        "company": "ООО Моринтех",
+        "city": "Москва",
+        "name": "Senior / Lead Python developer"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/90175074?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "до 300 000 ₽",
+        "company": "Lesta Games",
+        "city": "Санкт-Петербург",
+        "name": "Python Developer (Platform)"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/91187726?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "250 000 – 350 000 ₽",
+        "company": "Sapiens solutions",
+        "city": "Москва",
+        "name": "Python разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/90382836?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "100 000 – 180 000 ₽",
+        "company": "ООО НТ Прогресс",
+        "city": "Москва",
+        "name": "Fullstack developer Python-JS / Фулстек-Разработчик"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72687504?query=python&hhtmFrom=vacancy_search_list",
+        "salary": "150 000 – 200 000 ₽",
+        "company": "ООО Селфсек",
+        "city": "Москва",
+        "name": "Middle Python developer"
+    }
+]
